@@ -2,8 +2,6 @@
 
 A simple, lightweight GUI application for extracting email addresses from text files. Built with Python's standard library - no external dependencies required!
 
-![Email Extractor Screenshot](screenshot.png)
-
 ## Features
 
 - **Extract emails** from any text file using regex pattern matching
