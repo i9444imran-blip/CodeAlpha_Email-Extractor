@@ -1,0 +1,5 @@
+John.Doe@Company.Com
+Jane.Smith@Gmail.Com
+Support@Example.Com
+Info@Example.Com
+Sales@Company.Com
